@@ -63,7 +63,7 @@ GAN Studio Pro is an interactive web application that demonstrates Generative Ad
 ### Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/gan-studio-pro.git
+git clone https://github.com/Prajwal9823/gan-studio-pro.git
 cd gan-studio-pro
 
 # Create virtual environment
